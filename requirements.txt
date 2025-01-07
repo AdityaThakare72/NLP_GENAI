@@ -1,0 +1,9 @@
+pandas
+numpy
+ipykernel
+scikit-learn
+gensim
+scipy
+torch
+sentence-transformers
+nltk

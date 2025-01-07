@@ -1,0 +1,8 @@
+venvGEN/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
