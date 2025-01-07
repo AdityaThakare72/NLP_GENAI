@@ -1,5 +1,5 @@
 venvGEN/
-
+assignments
 # Ignore Python bytecode
 __pycache__/
 *.pyc
