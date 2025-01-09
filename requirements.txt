@@ -7,3 +7,6 @@ scipy
 torch
 sentence-transformers
 nltk
+transformers
+langchain
+langchain-community
